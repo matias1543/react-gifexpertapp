@@ -1,6 +1,6 @@
 {
-  "homepage": "http://matias1543.github.io/gif-expert-app",
-  "name": "gif-expert-app",
+  "homepage": "http://matias1543.github.io/react-gifexpertapp",
+  "name": "react-gifexpertapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
